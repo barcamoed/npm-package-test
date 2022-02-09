@@ -1,0 +1,19 @@
+{
+  "name": "rizwan-package-test",
+  "version": "1.0.0",
+  "description": "testing package creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barcamoed/npm-package-test.git"
+  },
+  "author": "RizwanAshraf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barcamoed/npm-package-test/issues"
+  },
+  "homepage": "https://github.com/barcamoed/npm-package-test#readme"
+}
